@@ -15,3 +15,4 @@ The task is to solve the problem.
 The people with verified access:
 - James
 - Kalin
+- Simon
