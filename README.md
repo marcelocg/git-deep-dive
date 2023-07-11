@@ -17,3 +17,4 @@ The people with verified access:
 - Kalin
 - Simon
 - Felix
+- Alfonso
