@@ -20,3 +20,4 @@ The people with verified access:
 - Alfonso
 - Rohan
 - Raushan
+- Shubham
