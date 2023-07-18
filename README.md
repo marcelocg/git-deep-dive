@@ -19,3 +19,4 @@ The people with verified access:
 - Felix
 - Alfonso
 - Rohan
+- Raushan
