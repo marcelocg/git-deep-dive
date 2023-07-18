@@ -23,3 +23,4 @@ The people with verified access:
 - Shubham
 - Arie
 - Gaurav
+- Ramya
