@@ -26,3 +26,4 @@ The people with verified access:
 - Ramya
 - Luís Neto
 - Ilias Efstathiou
+- Marcelo
