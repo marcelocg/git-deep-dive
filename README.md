@@ -24,6 +24,6 @@ The people with verified access:
 - Gaurav
 - Ramya
 - Luís Neto
-- Ilias Efstathiou
+- Ilias Efstathiou (ilias3fs github account)
 - Marcelo
 - Arie
