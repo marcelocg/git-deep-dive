@@ -1,3 +1,4 @@
+
 package fish.payara.onebrcpayara;
 
 import java.io.BufferedReader;
@@ -13,11 +14,26 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+
+/*
+Results:
+111,772,193 lines
+Without parallel addToData
+real	1m1.241s
+user	1m34.518s
+sys	0m5.860s
+
+With parallel addToData
+real	1m22.249s
+user	4m48.438s
+sys	1m13.989s
+ */
 
 /**
  * 1 Billion Row Challenge. See https://1brc.dev/
