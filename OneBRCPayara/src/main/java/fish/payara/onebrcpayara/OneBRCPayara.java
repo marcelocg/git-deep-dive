@@ -67,7 +67,7 @@ public class OneBRCPayara {
             Collections.sort(results, (r1, r2) -> r1.name().compareTo(r2.name()));
             System.out.println("Printing");
             results.stream()
-                    .forEach(s -> out.println(s));
+                    .forEach(s -> out.println("%s;%.1f;%.1f;%.1f".formatted(s.name(), s.min(), s.mean(), s.max())));
         }
     }
 
