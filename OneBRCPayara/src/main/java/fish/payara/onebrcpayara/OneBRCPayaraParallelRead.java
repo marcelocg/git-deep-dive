@@ -24,6 +24,11 @@ Results:
 real	0m5.618s
 user	0m56.874s
 sys	0m3.507s
+
+1,117,319,693 lines
+real	0m48.576s
+user	8m51.989s
+sys	0m6.459s
  */
 /**
  * 1 Billion Row Challenge. See https://1brc.dev/
